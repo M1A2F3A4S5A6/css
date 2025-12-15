@@ -1,0 +1,48 @@
+  h1{ 
+          background-color: hsl(325, 87%, 47%);
+          width: 400px;
+          height: 500px;
+          /* border-width: 59px; */
+          /* border-color: brown; */
+          /* border-style:ridge ; */
+          border: 6px solid blue;
+           border-radius: 20px 60px 89px 100px; 
+            /* border-radius: 220px 70px;  */
+           /* border-radius: 80px; */
+  }
+    img{ 
+          width: 400px;
+          height: 500px;
+          /* border-width: 59px; */
+          /* border-color: brown; */
+          /* border-style:ridge ; */
+          border: 6px solid blue;
+          /* border-radius: 0px 60px 89px 100px; */
+           /* border-radius: 220px 70px; */ 
+           border-radius: 80px;
+
+
+           /* padding-top: 50px; */
+           /* padding-right: 40px; */
+           /* padding-bottom: 50px; */
+           /* padding-left: 90px; */
+           /* padding: 80px 70px 40px 30px; */
+            /* padding: 50px 60px; */
+             padding: 80px; 
+
+             /* margin-top: 50px;  */
+             /* margin-right: 50px ; */
+             /* margin-bottom: 100px;  */
+             /* margin-left:120px ; */
+             /* margin: 50px 40px 80px 400px; */
+              /* margin: 100px 20px; */
+                margin: 100px;
+                
+           box-shadow:inset 100px 300px 1000px red;      
+  }
+  h2{
+    background-color: black;
+    width: 400px;
+    height: 500px;
+    border-radius: 30px 60px  90px  110px;
+  }

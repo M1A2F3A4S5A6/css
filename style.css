@@ -1,0 +1,58 @@
+ p{
+             color: red; 
+             /* text-align: justify; */
+             /* letter-spacing: 10px; */
+             /* word-spacing: 50px; */
+             /* line-height: 100px; */
+             /* text-indent: 300px; */
+             /* text-decoration: line-through; */
+             /* text-transform: capitalize; */
+             /* text-shadow: 20px 30px 10px  blue ; */
+             /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+             /* font-size: 50px; */
+             /* font-family:100 ; */
+              /* color: rgb(100,0,0);  */
+             /* color: #fe2ae9; */
+             /* color: #01f0f8; */
+             /* color: #f9f9f9; */
+             /* color:#5b5d5c; */
+
+              
+        }
+        h1{ 
+          background-image: url(image.jpg);
+          width: 400px;
+          height: 500px;
+          /* border-width: 59px; */
+          /* border-color: brown; */
+          /* border-style:ridge ; */
+          border: 6px solid blue;
+          /* border-radius: 0px 60px 89px 100px; */
+           /* border-radius: 220px 70px; */ 
+           border-radius: 80px;
+
+
+           /* padding-top: 50px; */
+           /* padding-right: 40px; */
+           /* padding-bottom: 50px; */
+           /* padding-left: 90px; */
+           /* padding: 80px 70px 40px 30px; */
+            /* padding: 50px 60px; */
+             padding: 80px; 
+
+             /* margin-top: 50px;  */
+             /* margin-right: 50px ; */
+             /* margin-bottom: 100px;  */
+             /* margin-left:120px ; */
+             /* margin: 50px 40px 80px 400px; */
+              /* margin: 100px 20px; */
+                margin: 100px;
+                
+           box-shadow:inset 100px 300px 1000px red;
+                
+
+        }
+        
+        h2{color:blue;} 
+        ul{color:aqua;}
+        ol{color: blueviolet;}
